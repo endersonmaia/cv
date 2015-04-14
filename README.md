@@ -1,14 +1,13 @@
 
-#Enderson Tadeu S. Maia
+# Enderson Tadeu S. Maia
 - Arapiraca, Brazil
 - endersonmaia@gmail.com
+- https://br.linkedin.com/in/endersonmaia
 - http://enderson.blog.br
-
-
 
 ---
 ## Technical Skills
-**Like:** linux, embedded-linux, osx, vim, textmate, sql-server, git, nginx, ruby, regex, tsql
+**Like:** linux, embedded-linux, osx, vim, textmate, sql-server, git, nginx, ruby, regex, tsql, bash
 
 ---
 ##Experience
@@ -50,7 +49,6 @@ Participating as developer on the implementation of LLDP-MED protocol for the em
 ---
 
 **Teacher**, Faculdade Maurício de Nassau - Maceió Campus, *February 2011 - July 2011*
-
 
 Teacher of
 
@@ -101,11 +99,11 @@ Managing the two people TI team, restructured all the telephony system and netwo
 
 ---
 
-**Conselheiro de Tecnologia, Sócio-Propietário**, Markaviva, *2007 - October 2011*
+**Tech Advisor, Partner**, Markaviva TV, *2007 - October 2011*
 
 digital-singage, out-of-home-digital-media
 
-Acting as a Technology Consultant about Digital Signage, Mobile Marketing and related technologies at the Interactive Publicity Market. Implemented the operations process for the points-of-presence of all the Digital Signage network.
+Acting as a Tech Advisor about Digital Signage, Mobile Marketing and related technologies at the Interactive Publicity Market. Implemented the operations process for the points-of-presence of all the Digital Signage network.
 
 ---
 
@@ -139,22 +137,13 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 **M.S. Software Engineering**, CESAR.edu, *2009 - 2011*
 
-
-
-
 ---
 
 **B.S. Information Systems**, FAL - Faculdade de Alagoas, *2004 - 2008*
 
-
-
-
 ---
 
 **Programa de Formação em Suporte ao Usuário**, IBRATEC - Instituto Brasileiro de Tecnologia, *2001 - 2003*
-
-
-
 
 ---
 
@@ -162,15 +151,9 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 **LPIC 1**, *2004 - 2009*
 
-
-
-
 ---
 
 **Red Hat Certified System Administrator (RHCSA - 150-037-455)**, *2015 - 2018*
-
-
-
 
 ---
 
@@ -190,37 +173,25 @@ This project was the prove of concept of my M.S. Dissertation.
 
 **GitHub - homebrew**, [https://github.com/endersonmaia/homebrew](https://github.com/endersonmaia/homebrew), *July 2012 - January 2015*
 
-
 The missing package manager for OS X.
-  
-
 
 ---
 
 **GitHub - chiliproject**, [https://github.com/endersonmaia/chiliproject](https://github.com/endersonmaia/chiliproject), *February 2011 - February 2013*
 
-
 ChiliProject is a web based project management system built on Ruby on Rails
-  
-
 
 ---
 
 **GitHub - composite_primary_keys**, [https://github.com/endersonmaia/composite_primary_keys](https://github.com/endersonmaia/composite_primary_keys), *June 2012 - July 2012*
 
-
 Composite Primary Keys support for Active Record
-  
-
 
 ---
 
 **GitHub - baseimage-docker**, [https://github.com/endersonmaia/baseimage-docker](https://github.com/endersonmaia/baseimage-docker), *April 2014 - January 2015*
 
-
 A minimal Ubuntu base image modified for Docker-friendliness
-  
-
 
 ---
 
@@ -236,10 +207,7 @@ Implementing a client library for the STOMP messaging protocol.
 
 **GitHub - hbunit**, [https://github.com/endersonmaia/hbunit](https://github.com/endersonmaia/hbunit), *April 2014 - January 2015*
 
-
 hbunit is a unit-testing framework for the Harbour language.
-  
-
 
 ---
 
@@ -253,10 +221,7 @@ Some templates that I use to monitor some servers I manage, and some templates I
 
 ---
 
-
-
 ## Tools
 **First Computer:** Pentium 100
 
 **Favorite Editor:** Textmate
-
