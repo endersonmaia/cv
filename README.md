@@ -10,6 +10,10 @@
 **Like:** linux, embedded-linux, osx, vim, textmate, sql-server, git, nginx, ruby, regex, tsql, bash
 
 ---
+## Certifications
+**RHCSA - Red Hat Certified System Administrator**  [150-037-455](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=150-037-455&isSearch=False&verify=Verify)
+
+---
 ##Experience
 
 **CTO / Partner**, WAYS Consultoria, *March 2013 - March 2014*
