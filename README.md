@@ -14,7 +14,7 @@
 **RHCSA - Red Hat Certified System Administrator**  [150-037-455](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=150-037-455&isSearch=False&verify=Verify)
 
 ---
-##Experience
+## Experience
 
 **CTO / Partner**, WAYS Consultoria, *March 2013 - March 2014*
 
@@ -137,7 +137,7 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 ---
 
-##Education
+## Education
 
 **M.S. Software Engineering**, CESAR.edu, *2009 - 2011*
 
@@ -151,7 +151,7 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 ---
 
-##Certifications
+## Certifications
 
 **LPIC 1**, *2004 - 2009*
 
@@ -161,7 +161,7 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 ---
 
-##Projects &amp; Interests
+## Projects &amp; Interests
 
 **GitHub - pgp2p**, [https://github.com/endersonmaia/pgp2p](https://github.com/endersonmaia/pgp2p), *February 2011 - April 2011*
 
