@@ -223,3 +223,6 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 * https://stackoverflow.com/users/1452464/enderson-maia
 * https://www.quora.com/profile/Enderson-Maia
 * https://www.slideshare.net/endersonmaia/
+* https://www.meetup.com/pt-BR/maceio-dev-meetup/
+* https://www.meetup.com/pt-BR/arapiraca-dev-meetup/
+* https://brasil.io/covid19/voluntarios/
