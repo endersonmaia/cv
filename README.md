@@ -4,23 +4,31 @@
 - endersonmaia@gmail.com
 - https://br.linkedin.com/in/endersonmaia
 - http://enderson.github.io
+- @endersonmaia
 
 ---
 ## Technical Skills
-**Like:** linux, embedded-linux, osx, vim, sql, git, nginx, ruby, regex, shell, networking, docker, monitoring, etl, data integration
+
+**Like:** linux, vim, sql, git, nginx, ruby, python, regex, bash, shell, networking, docker, monitoring, etl, data integration, rest apis, software process
 
 ---
 ## Experience
 
-**IT Director / Partner**, Grupo São Tiago, *March 2012 - Current*
+**IT Director / Partner**, Grupo São Tiago, *March 2012 - March 2020*
 
-erp, redmine, zabbix, telephony, advpl, totvs, sql-server, git, zabbix, api, rest
+erp, redmine, zabbix, telephony, advpl, totvs, sql-server, git, api, rest
 
-Managing al the IT and Communication infrastructure and systems of all 5 companies that are part of the Group São Tiago.
+Managing IT, communication infrastructure and systems of all 5 companies that are part of the Group São Tiago.
 
-Co-responsible of the implementation of ERP (TOTVS Protheus) for the financial management of all the companies of the Group São Tiago, composed of several companies in a variety of fields (Farmácia São Tiago, Mundo Verde, Pharmapele, CMI – Consultórios Médicos Integrados, Mida's Construções). Defined the rules of integration between the company's system and the central ERP with a REST-like architecture internally developed.
+Co-responsible of the implementation of ERP (TOTVS Protheus) for the financial management of all the companies of the Group São Tiago, composed of several companies in a variety of fields (Farmácia São Tiago, Mundo Verde, Pharmapele, CMI – Consultórios Médicos Integrados, Mida's Construções). 
 
-Implanted the Zabbix monitoring system for all the network, server and services.
+Defined the businnes rules of integration between the companies' system and the central ERP with a REST-like architecture internally developed.
+
+- Integrated all metropolitan offices with WAN switches via RSTP redundant fiber channel paths;
+- Unified all servers (VMWare ESXi) in a datacenter with SAN, with redudant server, power and network;
+- All systems, servers and network equipaments monitored with Zabbix;
+- OpenVPN on Ubuntu VM for eventual remote worker automated with ansible;
+- Migrated interal API services to a containerized environment with Docker Swarm for easing the depoyment process GitOps-like;
 
 Group's Companies:
 
@@ -32,9 +40,9 @@ Group's Companies:
 
 ---
 
-**Business Partner**, Maia Burger & Smoked BBQ, *September 2008 - Current*
+**Business Partner**, Maia Burger & Smoked BBQ, *September 2018 - March 2020*
 
-erp, pdv, financial process, business expansion
+erp, pos, financial process, business expansion
 
 I've partnered with my brother, the founder, to help in the management and process to grow the business to other areas.
 
@@ -48,7 +56,7 @@ php, lavarel, digitalocean, docker
 
 Responsible for the conception of the product with my partner and managed project of the software and deployment with remote freelance developers.
 
-The product idea is a marketplace for local delivery with bike or motorcycle, where companies and individuals could hire this services via app ou site, just like Uber, but focused on small packages.
+The product is a marketplace for local delivery with bike or motorcycle, where companies and individuals could hire this services via app or site, just like Uber, but focused on small packages.
 
 Just before I quit, the project pivoted to a food delivery, just like iFood/Uber Eats without the portal, to serve restaurants that needed to outsource the delivery service.
 
@@ -60,7 +68,7 @@ https://www.youtube.com/watch?v=B8NZWIf6Rog
 
 erp, totvs, advpl, sql-server, redmine, git
 
-The company had credentials to represent TOTVS S/A at the State of Alagoas and Pernambuco in Brazil. I coordinated the implementation of the TOTVS ERP Protheus at some clients, and managed the development of some customizations for client&#39;s process with the Protheus ADVPL platform.
+The company had credentials to represent TOTVS S/A at the State of Alagoas and Pernambuco in Brazil. I coordinated the deployment of the TOTVS ERP Protheus at some clients, and managed the development of some customizations for client's process with the Protheus ADVPL platform.
 
 ---
 
@@ -68,7 +76,12 @@ The company had credentials to represent TOTVS S/A at the State of Alagoas and P
 
 git, embedded, linux, switching, network-protocols, lldp, sflow, datacom
 
-Participating as developer on the implementation of LLDP-MED protocol for the embedded linux distributions of DATACOM&#39;s switches, and assuming the Team Leader role during the development of the sFLow v5 protocol. The environment involved the use of tools such as C, Linux Git and others, and Scrum practices.
+Participating as developer on the implementation of LLDP-MED protocol for the embedded linux distributions of DATACOM's switches, and assuming the Team Leader role during the development of the sFLow v5 protocol.
+
+The environment involved the use of tools such as C, Linux Git and others, and Scrum practices.
+
+- Suggested an automated test approach to the development process with code-coverage reports;
+- Trained the team about using git, defines the proccess, and were responsbile for the local git server deployment.
 
 https://www.slideshare.net/CESAR/residncia-de-software-no-cesar
 
@@ -87,16 +100,22 @@ Teacher of :
 
 redmine, svn, software engineering, software process
 
-Acting as a consultant in the maintenance and adaptation of the company&#39;s Software Development Process. Adjusting the requirements of MPS.BR Level F to meet the size of the team and projects at the company.
+Acting as a consultant in the maintenance and adaptation of the company's Software Development Process. Adjusting the requirements of MPS.BR Level F to meet the size of the team and projects at the company.
 
-https://softex.br/mpsbr/
-http://www.ntech.com.br/
+- Customezed Redmine software to meet de requirements of MPS.BR;
+- Deployed subversion services with permissions, backups and automated reports.
+
+References :
+
+- https://softex.br/mpsbr/
+- http://www.ntech.com.br/
+- https://redmine.org/
 
 ---
 
 **Research Fellow**, Recife Center for Advanced Studies and Systems (CESAR), *June 2010 - October 2010*
 
-p2p, peer-to-peer, distributed authentication, digital certificate, web of trust, security
+p2p, peer-to-peer, distributed authentication, digital certificate, web of trust, security, java, pgp
 
 Acting as researcher for P2P networks, with focus on distributed authentication with digital certificates. The research was used for my Msc. In Software Engineering Dissertation.
 
@@ -118,13 +137,21 @@ Acting as the System Administrator and Network Manager for a hybrid Linux/Window
 
 Implemented a software te help the support team manage help-desk calls, and restructured all the backup system and planned the data-center growth.
 
+- Migrated all server to XenSource hypervisor over Debian linux;
+- Implemented monitoring of all servers and services with Zabbix;
+- Helped the development team with a deployment process in two phases for staging and production with isolated enviroment;
+- Helped the support team with the deployment of help-desk system with alerts and e-mail notifications;
+- Deployed and managed subversion for the development team;
+
 ---
 
 **IT Manager**, Farmácia São Tiago, *February 2007 - June 2008*
 
 eai, bi, data-warehouse, vpn, voip, asterisk, windows, linux, iptables
 
-Managing the two people TI team, restructured all the telephony system and network communications between the company&#39;s affiliate. Development the Data-Warehouse for the company, and worked at various system integration.
+Managing the two people IT team, restructured all the telephony system and network communications between the company's affiliate. 
+
+- Implemented a Data Warehouse with SQL Server integrating data from PostgreSQL, MySQL and Firebird.
 
 ---
 
@@ -132,7 +159,9 @@ Managing the two people TI team, restructured all the telephony system and netwo
 
 digital-singage, out-of-home-digital-media
 
-Acting as a Tech Advisor about Digital Signage, Mobile Marketing and related technologies at the Interactive Publicity Market. Implemented the operations process for the points-of-presence of all the Digital Signage network.
+Acting as a Tech Advisor about Digital Signage, Mobile Marketing and related technologies at the Interactive Publicity Market. 
+
+Implemented the operations process for the points-of-presence of all the Digital Signage network.
 
 ---
 
@@ -142,13 +171,18 @@ samba, ldap, dns, iptables, firewall, squid, proxy, cache, httpd, apache, ftp, a
 
 Responsible for some dozen of linux server with systems like proxy/cache, web/ftp, virtualization, authentication, LDAP, DNS, VPN, firewall and others.
 
+- Deployed some in-house e-mail hosting with postfix (e-mail), bind (DNS) and iptables for firewall;
+- Develped interal tool with bash (dialog) for maging linux services;
+- Deployed several firewals with iptables;
+- Deployed several Squid proxies for corporate networks with fitering rules and access reports;
+
 ---
 
 **IT Manager**, Farmácia São Tiago, *January 2003 - January 2005*
 
 dbf, wireless, linux, erp
 
-Responsible for the ERP, restructured the network, renegotiation of the telephony plans to reduce costs, implemented an outdoor Wi-Fi network to connect the company&#39;s affiliate, and implemented a lot of process automation in the linux servers.
+Responsible for the ERP, restructured the network, renegotiation of the telephony plans to reduce costs, implemented an outdoor Wi-Fi network to connect the company's affiliate, and implemented a lot of process automation in the linux servers.
 
 ---
 
@@ -160,11 +194,13 @@ Doing a lot of web programming in ASP and PHP, using Oracle as database, and dev
 
 Helped in the implementation of a DMZ network to host all the B2B infrastructure for the e-commerce application.
 
+- Developed an e-commerce platform with an EDI process for agile processing of the pruchase;
+
 ---
 
 ## Education
 
-**M.S. Software Engineering**, CESAR.edu, *2009 - 2011*
+**M.Sc. Software Engineering**, CESAR.edu, *2009 - 2011*
 
 **B.S. Information Systems**, FAL - Faculdade de Alagoas, *2004 - 2008*
 
@@ -180,16 +216,10 @@ Helped in the implementation of a DMZ network to host all the B2B infrastructure
 
 ---
 
-## Projects &amp; Interests
+## Projects, Interests & Social Profiles
 
 * https://enderson.github.io
 * https://github.com/endersonmaia
 * https://stackoverflow.com/users/1452464/enderson-maia
 * https://www.quora.com/profile/Enderson-Maia
 * https://www.slideshare.net/endersonmaia/
-
-
-## Tools
-**First Computer:** Pentium 100
-
-**Favorite Editor:** VS Code
