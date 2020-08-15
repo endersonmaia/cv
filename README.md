@@ -52,13 +52,17 @@ http://instagram.com/maia.bbq/
 
 **CTO, Co-founder**, EntreGO.io, *September 2016 - September 2018*
 
-php, lavarel, digitalocean, docker
+php, lavarel, digitalocean, aws, docker
 
 Responsible for the conception of the product with my partner and managed project of the software and deployment with remote freelance developers.
 
 The product is a marketplace for local delivery with bike or motorcycle, where companies and individuals could hire this services via app or site, just like Uber, but focused on small packages.
 
 Just before I quit, the project pivoted to a food delivery, just like iFood/Uber Eats without the portal, to serve restaurants that needed to outsource the delivery service.
+
+- In the first phase we used bitbucket, AWS CodeBuild and CodeDeploy and Elastic Beanstalk, the project was in Java;
+- In the second phase we changed the software stack to PHP/Laravel and migrated to DigitalOcean and GitLab with GitLab CI for automation;
+- Enabled a Docker development for easy test and deploy with a similar environment;
 
 https://www.youtube.com/watch?v=B8NZWIf6Rog
 
