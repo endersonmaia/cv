@@ -3,7 +3,7 @@
 - Arapiraca, Brazil
 - endersonmaia@gmail.com
 - https://br.linkedin.com/in/endersonmaia
-- http://enderson.github.io
+- http://endersonmaia.github.io
 - @endersonmaia
 
 ---
@@ -13,6 +13,14 @@
 
 ---
 ## Experience
+
+**Software Engineer**, Ring-0, *Septemper 2020 - June 2021*
+
+linux, network, firewall, xdp, ebpf, lua, c, ansible, terraform, grafana
+
+Helped build a [eBPF + XDP + Lua] Linux Firewall for high traffic networks.
+
+---
 
 **IT Director / Partner**, Grupo São Tiago, *March 2012 - March 2020*
 
